@@ -4,6 +4,10 @@
 
 ### App feito com Angular que consome API que mostra as caterios e notícios de alguns país.
 
+ <p align="center">
+<img src="https://user-images.githubusercontent.com/79487813/180665676-26792cfe-929a-4eea-905b-88a269678693.gif"/></P>
+
+
 ## 📝 Tecnologias
 
 - JavaScript: Linguagem oficial para desenvolvimento web.
